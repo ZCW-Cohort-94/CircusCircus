@@ -17,6 +17,7 @@ On first run, the default subforums will be created. Although custom subforums a
   - public posts can be seen by people not logged in
   - private posts can only be seen by users logged in
 - posts can be plain text or markdown
+- migrate this from sqlite3 to MySQL.
 
 ## Changes in 2020
 
