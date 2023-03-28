@@ -5,6 +5,7 @@ On first run, the default subforums will be created. Although custom subforums a
 
 ## Features to Add
 
+- divide the `forum.py` file into separate modules
 - comments on each post (many comments to one post)
 - like/dislike/heart/etc emojis on posts
 - direct messages from one user to another
